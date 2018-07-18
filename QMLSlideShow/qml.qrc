@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>VSlide.qml</file>
+        <file>slideshow/img_01.jpg</file>
+        <file>slideshow/img_02.jpg</file>
+        <file>slideshow/img_03.jpg</file>
+    </qresource>
+</RCC>
