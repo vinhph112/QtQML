@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>logo_iris.png</file>
+        <file>VIconButton.qml</file>
+        <file>VPaperRipple.qml</file>
+        <file>images/min_white.png</file>
+        <file>images/close_white.png</file>
+        <file>images/close_black.png</file>
+        <file>images/min_black.png</file>
+        <file>images/theme_black.png</file>
+        <file>images/theme_white.png</file>
+        <file>VTextField.qml</file>
+        <file>VButtonMaterial.qml</file>
+        <file>background.png</file>
+    </qresource>
+</RCC>
